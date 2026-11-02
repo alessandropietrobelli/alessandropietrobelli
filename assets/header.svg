@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-label="A Neovim session: Alessandro.cs being typed, a .NET solution tree and live counters">
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;white-space:pre}</style>
+<defs>
+  <clipPath id="win"><rect width="1000" height="430" rx="12"/></clipPath>
+  <linearGradient id="spark" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#7dcfff" stop-opacity=".35"/><stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<g clip-path="url(#win)">
+<rect width="1000" height="430" fill="#1a1b26"/>
+<rect width="1000" height="38" fill="#16161e"/>
+<circle cx="22" cy="19.0" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="19.0" r="6" fill="#febc2e"/>
+<circle cx="62" cy="19.0" r="6" fill="#28c840"/>
+<text x="500.0" y="23.5" fill="#565f89" font-size="12" text-anchor="middle">nvim — ~/alessandro</text>
+<line x1="0" y1="38" x2="1000" y2="38" stroke="#2a2e42"/>
+<rect x="0" y="38" width="215" height="340" fill="#16161e"/>
+<line x1="215" y1="38" x2="215" y2="378" stroke="#2a2e42"/>
+<rect x="13" y="55" width="9" height="9" rx="2" fill="#bb9af7"/>
+<text x="29" y="64" fill="#c0caf5" font-size="12.5" font-weight="bold" >Solution &#x27;alessandro&#x27;</text>
+<text x="26" y="85" fill="#565f89" font-size="11" >▾</text>
+<rect x="39" y="76" width="9" height="9" rx="2" fill="#7aa2f7"/>
+<text x="55" y="85" fill="#7aa2f7" font-size="12.5" >profile</text>
+<rect x="0" y="91" width="215" height="21" fill="#292e42"/>
+<rect x="40" y="96" width="11" height="11" rx="2" fill="#9b4f96"/>
+<text x="41.2" y="104.5" fill="#fff" font-size="7" font-weight="bold" >C#</text>
+<text x="57" y="106" fill="#c0caf5" font-size="12.5" >Alessandro.cs</text>
+<text x="26" y="127" fill="#565f89" font-size="11" >▾</text>
+<rect x="39" y="118" width="9" height="9" rx="2" fill="#7aa2f7"/>
+<text x="55" y="127" fill="#7aa2f7" font-size="12.5" >neovim</text>
+<rect x="41" y="139" width="9" height="9" rx="4.5" fill="#51a0cf"/>
+<text x="57" y="148" fill="#c0caf5" font-size="12.5" >dotnet-tree.nvim</text>
+<rect x="41" y="160" width="9" height="9" rx="4.5" fill="#51a0cf"/>
+<text x="57" y="169" fill="#c0caf5" font-size="12.5" >nuget.nvim</text>
+<rect x="41" y="181" width="9" height="9" rx="4.5" fill="#51a0cf"/>
+<text x="57" y="190" fill="#c0caf5" font-size="12.5" >dotnet-counters.nvim</text>
+<text x="26" y="211" fill="#565f89" font-size="11" >▾</text>
+<rect x="39" y="202" width="9" height="9" rx="2" fill="#7aa2f7"/>
+<text x="55" y="211" fill="#7aa2f7" font-size="12.5" >work</text>
+<rect x="41" y="223" width="9" height="9" rx="2" fill="#e0af68"/>
+<text x="57" y="232" fill="#c0caf5" font-size="12.5" >WiseDigitalStudio</text>
+<text x="26" y="253" fill="#565f89" font-size="11" >▸</text>
+<rect x="39" y="244" width="9" height="9" rx="2" fill="#565f89"/>
+<text x="55" y="253" fill="#565f89" font-size="12.5" >legacy (php, 2012)</text>
+<rect x="215" y="38" width="595" height="26" fill="#16161e"/>
+<rect x="215" y="38" width="128" height="26" fill="#1a1b26"/>
+<rect x="215" y="38" width="128" height="2" fill="#7aa2f7"/>
+<text x="229" y="55.5" fill="#c0caf5" font-size="12" >Alessandro.cs</text>
+<text x="365" y="55.5" fill="#565f89" font-size="12" >nuget://installed</text>
+<g>
+<text x="251" y="90" fill="#3b4261" font-size="12" text-anchor="end">1</text>
+<clipPath id="l0"><rect x="269" y="75" height="21" width="0"><animate attributeName="width" from="0" to="208.1" begin="1.00s" dur="0.35s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1"/></rect></clipPath>
+<text x="269" y="90" font-size="13" clip-path="url(#l0)"><tspan fill="#bb9af7">namespace </tspan><tspan fill="#2ac3de">Cermenate</tspan><tspan fill="#89ddff">.</tspan><tspan fill="#2ac3de">Italy</tspan><tspan fill="#89ddff">;</tspan></text>
+<text x="251" y="111" fill="#3b4261" font-size="12" text-anchor="end">2</text>
+<clipPath id="l1"><rect x="269" y="96" height="21" width="0"><animate attributeName="width" from="0" to="4.0" begin="1.47s" dur="0.12s" fill="freeze" calcMode="discrete" values="0"/></rect></clipPath>
+<text x="269" y="111" font-size="13" clip-path="url(#l1)"></text>
+<text x="251" y="132" fill="#3b4261" font-size="12" text-anchor="end">3</text>
+<clipPath id="l2"><rect x="269" y="117" height="21" width="0"><animate attributeName="width" from="0" to="427.9" begin="1.71s" dur="0.72s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2;361.1;368.9;376.8;384.6;392.5;400.3;408.2;416.0;423.9"/></rect></clipPath>
+<text x="269" y="132" font-size="13" clip-path="url(#l2)"><tspan fill="#565f89">/// Shipping code since I was 14: PHP first, .NET now.</tspan></text>
+<text x="251" y="153" fill="#3b4261" font-size="12" text-anchor="end">4</text>
+<clipPath id="l3"><rect x="269" y="138" height="21" width="0"><animate attributeName="width" from="0" to="341.6" begin="2.55s" dur="0.57s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6"/></rect></clipPath>
+<text x="269" y="153" font-size="13" clip-path="url(#l3)"><tspan fill="#bb9af7">public sealed record </tspan><tspan fill="#2ac3de">Alessandro</tspan><tspan fill="#89ddff"> : </tspan><tspan fill="#2ac3de">Developer</tspan></text>
+<text x="251" y="174" fill="#3b4261" font-size="12" text-anchor="end">5</text>
+<clipPath id="l4"><rect x="269" y="159" height="21" width="0"><animate attributeName="width" from="0" to="11.8" begin="3.24s" dur="0.12s" fill="freeze" calcMode="discrete" values="0.0;7.8"/></rect></clipPath>
+<text x="269" y="174" font-size="13" clip-path="url(#l4)"><tspan fill="#89ddff">{</tspan></text>
+<text x="251" y="195" fill="#3b4261" font-size="12" text-anchor="end">6</text>
+<clipPath id="l5"><rect x="269" y="180" height="21" width="0"><animate attributeName="width" from="0" to="420.0" begin="3.48s" dur="0.71s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2;361.1;368.9;376.8;384.6;392.5;400.3;408.2;416.0"/></rect></clipPath>
+<text x="269" y="195" font-size="13" clip-path="url(#l5)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string  </tspan><tspan fill="#c0caf5"> Company  </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#9ece6a">&quot;@WiseDigitalStudio&quot;</tspan><tspan fill="#89ddff">;</tspan></text>
+<text x="251" y="216" fill="#3b4261" font-size="12" text-anchor="end">7</text>
+<clipPath id="l6"><rect x="269" y="201" height="21" width="0"><animate attributeName="width" from="0" to="357.2" begin="4.31s" dur="0.60s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2"/></rect></clipPath>
+<text x="269" y="216" font-size="13" clip-path="url(#l6)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string  </tspan><tspan fill="#c0caf5"> Role     </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#9ece6a">&quot;Co-founder&quot;</tspan><tspan fill="#89ddff">;</tspan></text>
+<text x="251" y="237" fill="#3b4261" font-size="12" text-anchor="end">8</text>
+<clipPath id="l7"><rect x="269" y="222" height="21" width="0"><animate attributeName="width" from="0" to="529.9" begin="5.03s" dur="0.89s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2;361.1;368.9;376.8;384.6;392.5;400.3;408.2;416.0;423.9;431.8;439.6;447.4;455.3;463.1;471.0;478.8;486.7;494.5;502.4;510.2;518.1;525.9"/></rect></clipPath>
+<text x="269" y="237" font-size="13" clip-path="url(#l7)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string[]</tspan><tspan fill="#c0caf5"> Stack    </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">&quot;C#&quot;</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#9ece6a">&quot;.NET&quot;</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#9ece6a">&quot;Azure&quot;</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#9ece6a">&quot;Angular&quot;</tspan><tspan fill="#89ddff">];</tspan></text>
+<text x="251" y="258" fill="#3b4261" font-size="12" text-anchor="end">9</text>
+<clipPath id="l8"><rect x="269" y="243" height="21" width="0"><animate attributeName="width" from="0" to="490.7" begin="6.04s" dur="0.83s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2;361.1;368.9;376.8;384.6;392.5;400.3;408.2;416.0;423.9;431.8;439.6;447.4;455.3;463.1;471.0;478.8;486.7"/></rect></clipPath>
+<text x="269" y="258" font-size="13" clip-path="url(#l8)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string  </tspan><tspan fill="#c0caf5"> Editor   </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#9ece6a">&quot;Neovim&quot;</tspan><tspan fill="#89ddff">;</tspan><tspan fill="#565f89"> // yes, for .NET too</tspan></text>
+<text x="251" y="279" fill="#3b4261" font-size="12" text-anchor="end">10</text>
+<clipPath id="l9"><rect x="269" y="264" height="21" width="0"><animate attributeName="width" from="0" to="318.0" begin="6.99s" dur="0.53s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0"/></rect></clipPath>
+<text x="269" y="279" font-size="13" clip-path="url(#l9)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string  </tspan><tspan fill="#c0caf5"> OS       </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#9ece6a">&quot;macOS&quot;</tspan><tspan fill="#89ddff">;</tspan></text>
+<text x="251" y="300" fill="#3b4261" font-size="12" text-anchor="end">11</text>
+<clipPath id="l10"><rect x="269" y="285" height="21" width="0"><animate attributeName="width" from="0" to="365.1" begin="7.64s" dur="0.61s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2;361.1"/></rect></clipPath>
+<text x="269" y="300" font-size="13" clip-path="url(#l10)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string  </tspan><tspan fill="#c0caf5"> AIAgent  </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#9ece6a">&quot;Claude Code&quot;</tspan><tspan fill="#89ddff">;</tspan></text>
+<text x="251" y="321" fill="#3b4261" font-size="12" text-anchor="end">12</text>
+<clipPath id="l11"><rect x="269" y="306" height="21" width="0"><animate attributeName="width" from="0" to="365.1" begin="8.37s" dur="0.61s" fill="freeze" calcMode="discrete" values="0.0;7.8;15.7;23.5;31.4;39.2;47.1;54.9;62.8;70.6;78.5;86.3;94.2;102.0;109.9;117.8;125.6;133.4;141.3;149.2;157.0;164.8;172.7;180.5;188.4;196.2;204.1;211.9;219.8;227.6;235.5;243.3;251.2;259.1;266.9;274.8;282.6;290.4;298.3;306.1;314.0;321.8;329.7;337.6;345.4;353.2;361.1"/></rect></clipPath>
+<text x="269" y="321" font-size="13" clip-path="url(#l11)"><tspan fill="#bb9af7">    public </tspan><tspan fill="#2ac3de">string  </tspan><tspan fill="#c0caf5"> Based    </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#9ece6a">&quot;Como, Italy&quot;</tspan><tspan fill="#89ddff">;</tspan></text>
+<text x="251" y="342" fill="#3b4261" font-size="12" text-anchor="end">13</text>
+<clipPath id="l12"><rect x="269" y="327" height="21" width="0"><animate attributeName="width" from="0" to="11.8" begin="9.11s" dur="0.12s" fill="freeze" calcMode="discrete" values="0.0;7.8"/></rect></clipPath>
+<text x="269" y="342" font-size="13" clip-path="url(#l12)"><tspan fill="#89ddff">}</tspan></text>
+</g>
+<rect x="269" y="76" width="7.8" height="17" fill="#c0caf5" opacity=".85"><set attributeName="y" to="76" begin="1.00s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1" calcMode="discrete" begin="1.00s" dur="0.35s" fill="freeze"/><set attributeName="y" to="97" begin="1.47s" fill="freeze"/><set attributeName="x" to="269" begin="1.47s" fill="freeze"/><set attributeName="y" to="118" begin="1.71s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2;630.1;638.0;645.8;653.6;661.5;669.3;677.2;685.0;692.9" calcMode="discrete" begin="1.71s" dur="0.72s" fill="freeze"/><set attributeName="y" to="139" begin="2.55s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5" calcMode="discrete" begin="2.55s" dur="0.57s" fill="freeze"/><set attributeName="y" to="160" begin="3.24s" fill="freeze"/><animate attributeName="x" values="269.0;276.9" calcMode="discrete" begin="3.24s" dur="0.12s" fill="freeze"/><set attributeName="y" to="181" begin="3.48s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2;630.1;638.0;645.8;653.6;661.5;669.3;677.2;685.0" calcMode="discrete" begin="3.48s" dur="0.71s" fill="freeze"/><set attributeName="y" to="202" begin="4.31s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2" calcMode="discrete" begin="4.31s" dur="0.60s" fill="freeze"/><set attributeName="y" to="223" begin="5.03s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2;630.1;638.0;645.8;653.6;661.5;669.3;677.2;685.0;692.9;700.8;708.6;716.5;724.3;732.1;740.0;747.8;755.7;763.5;771.4;779.2;787.1;794.9" calcMode="discrete" begin="5.03s" dur="0.89s" fill="freeze"/><set attributeName="y" to="244" begin="6.04s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2;630.1;638.0;645.8;653.6;661.5;669.3;677.2;685.0;692.9;700.8;708.6;716.5;724.3;732.1;740.0;747.8;755.7" calcMode="discrete" begin="6.04s" dur="0.83s" fill="freeze"/><set attributeName="y" to="265" begin="6.99s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0" calcMode="discrete" begin="6.99s" dur="0.53s" fill="freeze"/><set attributeName="y" to="286" begin="7.64s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2;630.1" calcMode="discrete" begin="7.64s" dur="0.61s" fill="freeze"/><set attributeName="y" to="307" begin="8.37s" fill="freeze"/><animate attributeName="x" values="269.0;276.9;284.7;292.6;300.4;308.2;316.1;323.9;331.8;339.6;347.5;355.4;363.2;371.1;378.9;386.8;394.6;402.4;410.3;418.1;426.0;433.9;441.7;449.5;457.4;465.2;473.1;480.9;488.8;496.6;504.5;512.4;520.2;528.0;535.9;543.8;551.6;559.5;567.3;575.1;583.0;590.8;598.7;606.5;614.4;622.2;630.1" calcMode="discrete" begin="8.37s" dur="0.61s" fill="freeze"/><set attributeName="y" to="328" begin="9.11s" fill="freeze"/><animate attributeName="x" values="269.0;276.9" calcMode="discrete" begin="9.11s" dur="0.12s" fill="freeze"/><animate attributeName="opacity" values=".85;.85;0;0" keyTimes="0;.5;.5;1" dur="1.1s" begin="9.35s" repeatCount="indefinite"/></rect>
+<rect x="810" y="38" width="190" height="340" fill="#16161e"/>
+<line x1="810" y1="38" x2="810" y2="378" stroke="#2a2e42"/>
+<text x="824" y="62" fill="#c0caf5" font-size="12.5" font-weight="bold" >dotnet-counters</text>
+<text x="824" y="79" fill="#565f89" font-size="11" >pid 2012 · uptime 14y</text>
+<text x="824" y="108" fill="#565f89" font-size="11" >CPU · curiosity</text>
+<rect x="824" y="114" width="162" height="7" rx="3.5" fill="#292e42"/>
+<rect x="824" y="114" width="126.4" height="7" rx="3.5" fill="#9ece6a"><animate attributeName="width" values="126.4;153.9;136.1;160.4;126.4" dur="4.1s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1"/></rect>
+<text x="824" y="146" fill="#565f89" font-size="11" >Memory · open tabs</text>
+<rect x="824" y="152" width="162" height="7" rx="3.5" fill="#292e42"/>
+<rect x="824" y="152" width="89.1" height="7" rx="3.5" fill="#7aa2f7"><animate attributeName="width" values="89.1;100.4;115.0;106.9;89.1" dur="5.3s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1"/></rect>
+<text x="824" y="184" fill="#565f89" font-size="11" >GC · refactoring</text>
+<rect x="824" y="190" width="162" height="7" rx="3.5" fill="#292e42"/>
+<rect x="824" y="190" width="48.6" height="7" rx="3.5" fill="#bb9af7"><animate attributeName="width" values="48.6;100.4;40.5;77.8;48.6" dur="3.7s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1"/></rect>
+<text x="824" y="222" fill="#565f89" font-size="11" >Espresso / hour</text>
+<rect x="824" y="228" width="162" height="7" rx="3.5" fill="#292e42"/>
+<rect x="824" y="228" width="64.8" height="7" rx="3.5" fill="#e0af68"><animate attributeName="width" values="64.8;64.8;137.7;64.8;64.8" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1"/></rect>
+<text x="824" y="260" fill="#565f89" font-size="11" >Exceptions</text>
+<text x="986" y="260" fill="#9ece6a" font-size="11" text-anchor="end">0  (good day)</text>
+<text x="824" y="286" fill="#565f89" font-size="11" >commits / week</text>
+<clipPath id="sp"><rect x="824" y="290" width="162" height="44"/></clipPath>
+<g clip-path="url(#sp)"><g><polygon points="824.0,330 824.0,322.2 832.1,318.3 840.2,320.9 848.3,314.4 856.4,319.6 864.5,311.8 872.6,315.7 880.7,306.6 888.8,317.0 896.9,310.5 905.0,302.7 913.1,313.1 921.2,307.9 929.3,298.8 937.4,309.2 945.5,304.0 953.6,296.2 961.7,305.3 969.8,311.8 977.9,318.3 986.0,322.2 986.0,330" fill="url(#spark)"/><polyline points="824.0,322.2 832.1,318.3 840.2,320.9 848.3,314.4 856.4,319.6 864.5,311.8 872.6,315.7 880.7,306.6 888.8,317.0 896.9,310.5 905.0,302.7 913.1,313.1 921.2,307.9 929.3,298.8 937.4,309.2 945.5,304.0 953.6,296.2 961.7,305.3 969.8,311.8 977.9,318.3 986.0,322.2" fill="none" stroke="#7dcfff" stroke-width="1.6" stroke-linejoin="round"/><polygon points="986.0,330 986.0,322.2 994.1,318.3 1002.2,320.9 1010.3,314.4 1018.4,319.6 1026.5,311.8 1034.6,315.7 1042.7,306.6 1050.8,317.0 1058.9,310.5 1067.0,302.7 1075.1,313.1 1083.2,307.9 1091.3,298.8 1099.4,309.2 1107.5,304.0 1115.6,296.2 1123.7,305.3 1131.8,311.8 1139.9,318.3 1148.0,322.2 1148.0,330" fill="url(#spark)"/><polyline points="986.0,322.2 994.1,318.3 1002.2,320.9 1010.3,314.4 1018.4,319.6 1026.5,311.8 1034.6,315.7 1042.7,306.6 1050.8,317.0 1058.9,310.5 1067.0,302.7 1075.1,313.1 1083.2,307.9 1091.3,298.8 1099.4,309.2 1107.5,304.0 1115.6,296.2 1123.7,305.3 1131.8,311.8 1139.9,318.3 1148.0,322.2" fill="none" stroke="#7dcfff" stroke-width="1.6" stroke-linejoin="round"/><animateTransform attributeName="transform" type="translate" from="0 0" to="-162.0 0" dur="9s" repeatCount="indefinite"/></g></g>
+<rect x="0" y="378" width="1000" height="24" fill="#292e42"/>
+<rect x="0" y="378" width="84" height="24" fill="#9ece6a"><set attributeName="fill" to="#7aa2f7" begin="9.35s" fill="freeze"/></rect>
+<text x="42" y="394.5" font-size="12" font-weight="bold" fill="#1a1b26" text-anchor="middle"><tspan>INSERT<set attributeName="display" to="none" begin="9.35s" fill="freeze"/></tspan></text>
+<text x="42" y="394.5" font-size="12" font-weight="bold" fill="#1a1b26" text-anchor="middle" display="none">NORMAL<set attributeName="display" to="inline" begin="9.35s" fill="freeze"/></text>
+<text x="98" y="394.5" fill="#bb9af7" font-size="12" > master</text>
+<text x="178" y="394.5" fill="#c0caf5" font-size="12" >Alessandro.cs</text>
+<text x="986" y="394.5" fill="#565f89" font-size="12" text-anchor="end">C#  utf-8  Cermenate, IT  45.70N 9.10E</text>
+<text x="12" y="418" font-size="12.5" fill="#c0caf5">:e Alessandro.cs<set attributeName="display" to="none" begin="1.00s" fill="freeze"/></text>
+<text x="12" y="418" font-size="12.5" fill="#565f89" display="none">-- INSERT --<set attributeName="display" to="inline" begin="1.00s" fill="freeze"/><set attributeName="display" to="none" begin="9.35s" fill="freeze"/></text>
+<text x="12" y="418" font-size="12.5" fill="#c0caf5" display="none">"Alessandro.cs" 13L written<set attributeName="display" to="inline" begin="9.75s" fill="freeze"/></text>
+</g>
+<rect x=".5" y=".5" width="999" height="429" rx="12" fill="none" stroke="#2a2e42"/>
+</svg>
