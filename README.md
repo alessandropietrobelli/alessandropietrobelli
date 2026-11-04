@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="A Neovim session: a .NET solution tree on the left, Alessandro.cs being typed in the middle, live dotnet-counters on the right">
-</p>
-
 <h3 align="center">Ciao, I'm Alessandro 👋</h3>
 
 <p align="center">
@@ -11,6 +7,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,angular,ts,lua,neovim,php&perline=8" alt="C#, .NET, Azure, Angular, TypeScript, Lua, Neovim, PHP">
+</p>
+
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="A Neovim session: a .NET solution tree on the left, Alessandro.cs being typed in the middle, live dotnet-counters on the right">
 </p>
 
 ---
